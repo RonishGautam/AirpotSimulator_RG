@@ -1,12 +1,12 @@
 import java.util.*;
 
 /**
- * The {@code Airport} class represents an airport in the simulation.
+ * The Airpot class represents an airport in the simulation.
  * It manages queues of planes approaching and ready to land, as well as a list of runways.
  * The class simulates the flow of planes approaching, landing, and clearing the runways.
  *
- * @author Your Name
- * @version 1.0
+ * @author Ronish Gautam
+ * @version Airpot 
  */
 class Airport {
     private Queue<Plane> approachQueue;
