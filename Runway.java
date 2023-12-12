@@ -2,12 +2,12 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * The {Runway} class represents a runway in the airport simulation.
+ * The Runway class represents a runway in the airport simulation.
  * It maintains a queue of planes currently on the runway.
  * Planes are added to the runway and cleared from the runway when they have landed.
  *
  * @author Ronish Gautam
- * @version 1.0
+ * @version Airpot
  */
 class Runway {
     private Queue<Plane> planesOnRunway;
